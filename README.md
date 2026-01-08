@@ -1,4 +1,4 @@
-# # Sephora products-dataset-samples
+# # Sephora products 데이터셋 샘플
 
 <h2>1001개의 Sephora 제품 샘플 データセット</h2>
 
