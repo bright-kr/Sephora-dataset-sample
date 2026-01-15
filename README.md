@@ -1,12 +1,12 @@
 # # Sephora products 데이터셋 샘플
 
-<h2>1001개의 Sephora 제품 샘플 データセット</h2>
+<h2>1001개의 Sephora 제품 샘플 데이터셋</h2>
 
 ![Sephora products dataset header](https://github.com/bright-kr/Google-Shopping-dataset-sample/blob/main/Google-Shopping-datasets.png)
 
-1000개 이상의 레코드로 구성된 Sephora 제품 データセット 샘플입니다. データセット은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
+1000개 이상의 레코드로 구성된 Sephora 제품 데이터셋 샘플입니다. 데이터셋은 <b>Bright Data API</b>를 사용하여 추출되었습니다.
 
-<h2>Sephora 제품 データセット에 포함된 일부 데이터 포인트:</h2>
+<h2>Sephora 제품 데이터셋에 포함된 일부 데이터 포인트:</h2>
 
 * ```url```: 제품 페이지의 URL 또는 링크  
 * ```id```: 제품의 고유 식별자  
@@ -38,19 +38,19 @@
 
 그 외에도 더 많은 항목이 있습니다.
 
-이는 "Sephora products" データセット에서 파생된 샘플 서브셋이며, 해당 データセット에는 <b>89K개 이상의 레코드</b>가 포함되어 있습니다.
+이는 "Sephora products" 데이터셋에서 파생된 샘플 서브셋이며, 해당 데이터셋에는 <b>89K개 이상의 레코드</b>가 포함되어 있습니다.
 
-사용 가능한 データセット 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, 또는 Parquet. 선택적으로 파일을 .gz로 압축할 수 있습니다</b>.
+사용 가능한 데이터셋 파일 형식: <b>JSON, NDJSON, JSON Lines, CSV, 또는 Parquet. 선택적으로 파일을 .gz로 압축할 수 있습니다</b>.
 
-データセット 전달 방식 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+데이터셋 전달 방식 옵션: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
 
 업데이트 빈도: <b>Once, Daily, Weekly, Monthly, Quarterly, 또는 Custom basis</b>.
 
 추출된 데이터 포인트에 대한 추가 옵션으로 제공되는 데이터 강화(Data enrichment): <b>요청 기반.</b>
 
-<b>[전체 Sephora 제품 データセット 받기](https://brightdata.co.kr/products/datasets/sephora)</b>.
+<b>[전체 Sephora 제품 데이터셋 받기](https://brightdata.co.kr/products/datasets/sephora)</b>.
 
-<h2>Sephora 제품 データセット의 활용 사례는 무엇입니까?</h2>
+<h2>Sephora 제품 데이터셋의 활용 사례는 무엇입니까?</h2>
 
 <h3>1. 가격 전략</h3>
 Sephora의 유사 제품 및 카테고리를 경쟁사와 정렬하여 가격 전략을 수립하고 동적 가격 책정 모델을 구현합니다.
@@ -59,8 +59,8 @@ Sephora의 유사 제품 및 카테고리를 경쟁사와 정렬하여 가격 �
 Sephora의 제품 재고에서의 공백을 파악하고, 특정 제품에 대한 수요 증가를 분석하며, 소비자 사이에서 트렌드인 제품을 추적합니다.
 
 <h3>3. 시장 전략</h3>
-Sephora データセット을 활용하여 시장 전략 분석을 수행하고, 주요 트렌드를 도출하며, 고객 선호도를 파악합니다.
+Sephora 데이터셋을 활용하여 시장 전략 분석을 수행하고, 주요 트렌드를 도출하며, 고객 선호도를 파악합니다.
 
-<h2>학술 연구자 및 NGO를 위한 Webスクレイピング 도구 및 データセット 무료 이용</h2>
+<h2>학술 연구자 및 NGO를 위한 Web스크레이핑 도구 및 데이터셋 무료 이용</h2>
 
-Bright Initiative는 다양한 환경 및 사회적 대의를 촉진하는 주요 학술 기관 및 연구자, NGO 및 NPO에 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b> 및 <b>[바로 사용 가능한 データセット](https://brightdata.co.kr/products/datasets)</b>에 대한 접근을 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
+Bright Initiative는 다양한 환경 및 사회적 대의를 촉진하는 주요 학술 기관 및 연구자, NGO 및 NPO에 Bright Data의 <b>[Web Scraper APIs](https://brightdata.co.kr/products/web-scraper)</b> 및 <b>[바로 사용 가능한 데이터셋](https://brightdata.co.kr/products/datasets)</b>에 대한 접근을 제공합니다. <b>[여기](https://brightinitiative.com)</b>에서 신청서를 제출할 수 있습니다.
